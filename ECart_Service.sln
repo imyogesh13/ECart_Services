@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECart_Service", "ECart_Service\ECart_Service.csproj", "{96B14F90-D254-476A-9201-87D719255969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B14F90-D254-476A-9201-87D719255969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B14F90-D254-476A-9201-87D719255969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B14F90-D254-476A-9201-87D719255969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B14F90-D254-476A-9201-87D719255969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F725E26F-822E-4AC6-87C7-3737040CE577}
+	EndGlobalSection
+EndGlobal
